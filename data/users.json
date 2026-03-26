@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1fc6bb38-fd00-4c8f-8b1c-ff783bce473c",
+    "name": "Jane Doe",
+    "email": "jane@example.com",
+    "age": 29
+  },
+  {
+    "id": "37776293-ff7f-450a-b273-096cf002211a",
+    "name": "Alice Johnson",
+    "email": "alice@example.com",
+    "age": 25
+  },
+  {
+    "id": "754c2cd4-02da-4b23-8f2e-4adc27eb00a3",
+    "name": "Bob Williams",
+    "email": "bob@example.com",
+    "age": 42
+  }
+]
